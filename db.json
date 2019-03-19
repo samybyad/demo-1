@@ -1,9 +1,9 @@
 {
   "users": [
-    { "id": 111, "title": "Developer" ,"status":"active" },
-    { "id": 222, "title": "Help desk", "status":"inactive" },
-    { "id": 333, "title": "Analyst" ,"status":"inactive"},
-    { "id": 444, "title": "Engineer" ,"status":"active"}
+    { "id": "111", "title": "Developer" ,"status":"active" },
+    { "id": "222", "title": "Help desk", "status":"inactive" },
+    { "id": "333", "title": "Analyst" ,"status":"inactive"},
+    { "id": "444", "title": "Engineer" ,"status":"active"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
